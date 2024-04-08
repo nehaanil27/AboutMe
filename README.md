@@ -11,22 +11,44 @@ I am a final year B.Tech student pursuing Computer Science Engineering with a sp
 - **PYTHON**
 - **C/C++**
 - **SQL** 
-- **AI/ML** 
+- **AI/ML**
+- **Communication**
+- **Time Management**
+- **Team Work**
 ## Projects
 Here are a few noteworthy projects I've worked on:
 
-- **[Project Name]**: Brief description or achievements.
-- **[Project Name]**: Brief description or achievements.
+- **Handwritten Text Recognition**: A system has been developed to recognize
+handwritten text from scanned images using audio
+assistance, utilizing CNN and RNN.
+Language: Python
+- **Simple Robotic Arm**: A robotic arm capable of playing different
+positions. It can record and play five positions
+using servos.
+Language: C
+- **Music Generation System**: Using LSTM deep learning models,project generates music inspired by iconic deceased musicians like Chopin, Schubert, and Beethoven, preserving their unique styles and artistic legacies from MIDI datasets.
+  Language: Python
 
+## Intership
+- **Internship on web development and AI**: Software development intern at Asimov Robotics.
 
+  Completed projects -
+      i. Hotel Kitchen Management
+      ii.Sign Language Recognition
 
-## Resume
-Check out my [resume](link-to-resume) for more details about my education, skills, and projects.
+  
+
+## Certifications
+- **Business English Certificate**: Cambridge University | Nov 2021.
+- **Introduction to Machine Learning**: NPTEL IIT Madras | Jan-April 2023.
+- **Natural Language Processing**: NPTEL IIT Kharagpur | Jan- April 2023.
+- **Reinforcement Learning**: NPTEL IIT Madras | Jul-Oct 2023.
+
 
 ## Let's Connect!
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/neha-anil-12a3ba205/)
-- Email: [Your Email Address](mailto:nehaan2024@gamil.com)
-
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/neha-anil-12a3ba205/)
+- Email: [nehaan2024@gamil.com](mailto:nehaan2024@gamil.com)
+- Phone: 9080277221
 
 Looking forward to connecting with you!
 
