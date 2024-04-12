@@ -39,6 +39,7 @@ Language: C
   
 
 ## Certifications
+- **AI for everyone**: Coursera | 
 - **Business English Certificate**: Cambridge University | Nov 2021.
 - **Introduction to Machine Learning**: NPTEL IIT Madras | Jan-April 2023.
 - **Natural Language Processing**: NPTEL IIT Kharagpur | Jan- April 2023.
@@ -47,8 +48,7 @@ Language: C
 
 ## Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/neha-anil-12a3ba205/)
-- Email: [nehaan2024@gamil.com](mailto:nehaan2024@gamil.com)
-- Phone: 9080277221
+
 
 Looking forward to connecting with you!
 
